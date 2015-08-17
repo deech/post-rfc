@@ -409,6 +409,12 @@ by Keera Studios:
 * `X11` - X11 bindings
 * `threepenny-gui` - Framework for local apps that use the web browser as the
   interface
+* `fltkhs` 
+   * Nearly complete bindings to FLTK GUI library.
+   * Almost no dependencies aside from `base` and `FLTK`.
+   * Easy to install, easy to use and crossplatform.
+   * Statically linked, self-contained executables on all platforms.
+   * Interface builder support currently being added.
 
 **Some example applications:**
 
